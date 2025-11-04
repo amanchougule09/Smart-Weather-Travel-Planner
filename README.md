@@ -43,7 +43,7 @@ Optimized for desktop and mobile users.
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the Repository
-git clone https://github.com/amanchougule09/Smart_Weather_Travel_Planner.git
+git clone https://github.com/amanchougule09/Smart-Weather-Travel-Planner.git
 cd smart-weather-travel
 
 2️⃣ Create a Virtual Environment
