@@ -70,34 +70,21 @@ Then visit:
 
 🖼️ Screenshots
 
-screenshots/Assistant.png
-screenshots/Hourly_and_next_3_days_forecast
-screenshots/Travel_map
-screenshots/Weather_search
+### Weather Search bar
+
+![Weather Search bar](smartweather/weather/screenshots/Weather search.png)
+
+### Hourly and next 3 days forecast
+
+![Hourly and next 3 days forecast](smartweather/weather/screenshots/Hourly and next 3 days forecast.png)
+
+### Route Planner
+
+![Route Planner](smartweather/weather/screenshots/Travel map.png)
 
 ### Assistant
+
 ![Assistant](smartweather/weather/screenshots/Assistant.png)
-
-
-📁 Folder Structure
-smart-weather-travel/
-├── manage.py
-├── .env.example
-├── requirements.txt
-├── smartweather/
-│   ├── settings.py
-│   ├── urls.py
-│   └── wsgi.py
-├── weather/
-│   ├── views.py
-│   ├── urls.py
-│   ├── templates/
-│   ├── static/
-│   └── ...
-├── screenshots/
-│   ├── home_page.png
-│   ├── travel_map.png
-│   ├── assistant_chat.png
 
 💡 Credits
 Developed with ❤️ by Aman Chougule
