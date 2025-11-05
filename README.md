@@ -75,6 +75,9 @@ screenshots/Hourly_and_next_3_days_forecast
 screenshots/Travel_map
 screenshots/Weather_search
 
+### Assistant
+![Assistant](smartweather/weather/screenshots/Assistant.png)
+
 
 📁 Folder Structure
 smart-weather-travel/
