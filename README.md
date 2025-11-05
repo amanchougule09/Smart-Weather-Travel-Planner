@@ -72,15 +72,15 @@ Then visit:
 
 ### Weather Search bar
 
-![Weather Search bar](smartweather/weather/screenshots/Weather search.png)
+![Weather_search](smartweather/weather/screenshots/Weather_search.png)
 
 ### Hourly and next 3 days forecast
 
-![Hourly and next 3 days forecast](smartweather/weather/screenshots/Hourly and next 3 days forecast.png)
+![Forecast](smartweather/weather/screenshots/Forecast.png)
 
 ### Route Planner
 
-![Route Planner](smartweather/weather/screenshots/Travel map.png)
+![Travel_map](smartweather/weather/screenshots/Travel_map.png)
 
 ### Assistant
 
