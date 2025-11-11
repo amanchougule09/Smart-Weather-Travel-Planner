@@ -27,6 +27,36 @@ Optimized for desktop and mobile users.
 
 ---
 
+
+---
+
+
+🖼️ Screenshots
+
+### Weather Search bar
+
+![Weather_search](smartweather/weather/screenshots/Weather_search.png)
+
+---------------------------------
+
+### Hourly and next 3 days forecast
+
+![Forecast](smartweather/weather/screenshots/Forecast.png)
+
+---------------------------------
+
+### Route Planner
+
+![Travel_map](smartweather/weather/screenshots/Travel_map.png)
+
+---------------------------------
+
+### Assistant
+
+![Assistant](smartweather/weather/screenshots/Assistant.png)
+
+---------------------------------
+
 ## 🛠️ Tech Stack
 
 - **Backend:** Django (Python)
@@ -37,10 +67,9 @@ Optimized for desktop and mobile users.
   - OSRM Routing API
 - **Database:** SQLite (default)
 - **Environment Variables:** via `.env` file
+## ⚙️ Setup Instructions
 
 ---
-
-## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the Repository
 git clone https://github.com/amanchougule09/Smart-Weather-Travel-Planner.git
@@ -68,23 +97,6 @@ python manage.py runserver
 Then visit:
 👉 http://127.0.0.1:8000/
 
-🖼️ Screenshots
-
-### Weather Search bar
-
-![Weather_search](smartweather/weather/screenshots/Weather_search.png)
-
-### Hourly and next 3 days forecast
-
-![Forecast](smartweather/weather/screenshots/Forecast.png)
-
-### Route Planner
-
-![Travel_map](smartweather/weather/screenshots/Travel_map.png)
-
-### Assistant
-
-![Assistant](smartweather/weather/screenshots/Assistant.png)
 
 💡 Credits
 Developed with ❤️ by Aman Chougule
