@@ -71,20 +71,7 @@ Optimized for desktop and mobile users.
 
 ---
 
-### 1️⃣ Clone the Repository
-git clone https://github.com/amanchougule09/Smart-Weather-Travel-Planner.git
-cd smart-weather-travel
-
-2️⃣ Create a Virtual Environment
-python -m venv venv
-venv\Scripts\activate       # On Windows
-# source venv/bin/activate  # On macOS/Linux
-
-3️⃣ Install Dependencies
-
-pip install -r requirements.txt
-4️⃣ Set Up .env
-Create a file named .env in your root directory and add:
+###
 
 SECRET_KEY=your_django_secret_key
 DEBUG=True
